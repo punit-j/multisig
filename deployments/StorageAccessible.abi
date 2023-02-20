@@ -1,0 +1,1 @@
+[{"name":"simulateAndRevert","type":"function","inputs":[{"name":"targetContract","type":"address","internalType":"address","indexed":false},{"name":"calldataPayload","type":"bytes","internalType":"bytes","indexed":false}],"outputs":[],"stateMutability":"nonpayable"}]
